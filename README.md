@@ -14,6 +14,3 @@ Hi there 👋 Im Sourav Prajapaath
 ![](https://nirzak-streak-stats.vercel.app/?user=Souravprajapath&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souravprajapath&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Souravprajapath&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
-
